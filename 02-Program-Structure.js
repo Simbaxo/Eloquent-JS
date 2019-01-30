@@ -1,4 +1,4 @@
-/* Eloquent JS Chapter 2 Excerices */
+/* Eloquent JS Chapter 2 Exercises */
 
 /* Looping a Triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
